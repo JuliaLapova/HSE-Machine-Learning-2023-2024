@@ -2,9 +2,11 @@
 
 ![HSE](HSE.png)
 
-# Master's program in Data Science in Development 2023-2024
-# Higher School Of Economics
-# Moscow
+
+
+## Master's program in Data Science in Development 2023-2024
+## Higher School Of Economics
+## Moscow
 
 * [Pandas HW](homework-practice-01-pandas-Лапова.ipynb);
 * [Linear Regression]('');
