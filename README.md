@@ -8,8 +8,8 @@
 ## Higher School Of Economics
 
 * [Pandas HW](homework-practice-01-pandas-Лапова.ipynb);
-* [Linear Regression]('');
-* [Gradient Descent]('');
+* [Linear Regression](homework-practice-02-linregr-Лапова.ipynb);
+* [Gradient Descent](homework-practice-03-gd-Лапова.ipynb);
 * [Classification]('');
 * [Trees](homework-practice-05-trees-LapovaJulia.ipynb);
 * [Bias-Variance Decomposition](''); 
