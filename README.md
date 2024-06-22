@@ -10,7 +10,6 @@
 * [Pandas HW](homework-practice-01-pandas-Лапова.ipynb);
 * [Linear Regression](homework-practice-02-linregr-Лапова.ipynb);
 * [Gradient Descent](homework-practice-03-gd-Лапова.ipynb);
-* [Classification]('');
+* [Classification](homework-practice-04-linclass-LapovaJulia.ipynb);
 * [Trees](homework-practice-05-trees-LapovaJulia.ipynb);
-* [Bias-Variance Decomposition](''); 
 * [Boosting](homework-practice-06-boosting-Lapova.ipynb) 
