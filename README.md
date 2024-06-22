@@ -13,4 +13,4 @@
 * [Classification]('');
 * [Trees]('');
 * [Bias-Variance Decomposition](''); 
-* [Boosting]('homework-practice-06-boosting-Lapova.ipynb') 
+* [Boosting](homework-practice-06-boosting-Lapova.ipynb) 
