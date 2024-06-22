@@ -11,6 +11,6 @@
 * [Linear Regression]('');
 * [Gradient Descent]('');
 * [Classification]('');
-* [Trees]('');
+* [Trees](homework-practice-05-trees-LapovaJulia.ipynb);
 * [Bias-Variance Decomposition](''); 
 * [Boosting](homework-practice-06-boosting-Lapova.ipynb) 
